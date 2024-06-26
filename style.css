@@ -3,7 +3,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: brown;
+  background-color: rgb(71, 181, 225);
 }
 
 .image-container {
@@ -20,7 +20,7 @@ body {
 }
 
 .btn {
-  background-color: slateblue;
+  background-color: rgb(12, 25, 204);
   border: none;
   padding: 10px 20px;
   margin: 20px;
